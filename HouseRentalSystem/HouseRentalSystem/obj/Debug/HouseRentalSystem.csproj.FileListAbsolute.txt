@@ -31,3 +31,5 @@ C:\Users\Vijay\Desktop\HouseRentalSystemASP\HouseRentalSystem\HouseRentalSystem\
 C:\Users\Vijay\Desktop\HouseRentalSystemASP\HouseRentalSystem\HouseRentalSystem\obj\Debug\HouseRentalSystem.dll
 C:\Users\Vijay\Desktop\HouseRentalSystemASP\HouseRentalSystem\HouseRentalSystem\obj\Debug\HouseRentalSystem.pdb
 C:\Users\Vijay\Desktop\HouseRentalSystemASP\HouseRentalSystem\HouseRentalSystem\obj\Debug\HouseRentalSystem.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\HouseRentalSystemASP\HouseRentalSystem\HouseRentalSystem\obj\Debug\HouseRentalSystem.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\HouseRentalSystemASP\HouseRentalSystem\HouseRentalSystem\obj\Debug\HouseRentalSystem.csproj.CoreCompileInputs.cache
